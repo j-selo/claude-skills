@@ -1,5 +1,5 @@
 ---
-name: devops-project-plan-generator
+name: devops-plan
 description: Use this skill when a DevOps or platform engineer needs to generate a structured project plan. Triggers include: "plan a migration", "help me plan X", "create a project plan for", "roadmap for", "how do I approach", or any request to scope and structure a DevOps initiative (e.g. Kubernetes migration, GitOps setup, observability stack, CI/CD pipeline, cloud migration, DR planning). Generates phased, realistic plans with time estimates, dependencies, risk flags, and success criteria — tailored to team size.
 ---
 
