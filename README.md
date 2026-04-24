@@ -1,4 +1,4 @@
-# claude-skills
+# Claude Code Skills
 
 A collection of custom skills for Claude Code.
 
